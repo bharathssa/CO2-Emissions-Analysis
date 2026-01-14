@@ -19,11 +19,6 @@ venv/
 .ipynb_checkpoints/
 *.ipynb_checkpoints
 
-# Large data files (optional - comment out if you want to include them)
-*.xlsx
-*.xls
-*.csv
-
 # Archive files
 *.zip
 *.tar.gz
