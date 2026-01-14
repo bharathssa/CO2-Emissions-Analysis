@@ -16,7 +16,6 @@ A comprehensive data analysis project examining global CO2 emissions from energy
 - [Usage](#usage)
 - [Key Findings](#key-findings)
 - [Technologies](#technologies)
-- [Team](#team)
 - [License](#license)
 
 ---
