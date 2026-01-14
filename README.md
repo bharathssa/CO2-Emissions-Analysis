@@ -204,16 +204,6 @@ co2_df.to_csv('data/processed/final_2050.csv', index=False)
 
 ---
 
-## 👥 Team
-
-**Group 20 - BUSINFO 701**
-
-Members:
-- Bharath (Project Lead & Data Analysis)
-- [Team Members to be added]
-
----
-
 ## 📝 License
 
 This project is created for educational purposes as part of BUSINFO 701 at the University of Auckland. 
