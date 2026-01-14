@@ -2,7 +2,6 @@
 
 A comprehensive data analysis project examining global CO2 emissions from energy sectors with economic correlations and 2050 forecasting models.
 
-**Course:** BUSINFO 701 | **Group:** 20 | **University:** University of Auckland
 
 ---
 
